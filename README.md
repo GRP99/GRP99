@@ -8,7 +8,7 @@ I’m Gonçalo, a software engineeer based in Braga, Portugal. I graduated from 
   - **Languages** : Haskell, C, Java, UML, MATLAB, C++, C#, PROLOG;
   - **Concepts** - MVC Architecture;
   - **Tools** - Git;
-  - **Libraries** - Gloss, OpenGl, Xamarin;
+  - **Libraries** - Gloss, OpenGL, Xamarin;
   - **Data** - SQL (MySQL), Neo4j, MongoDB;
   
 ## Contacts
