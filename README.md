@@ -14,4 +14,4 @@ I’m Gonçalo, a software engineeer based in Braga, Portugal. I graduated from 
 ## Contacts
 - **🐙 GitHub**: [@GRP99](https://github.com/GRP99/)
 - **📧 Email**: [goncalopinto9@gmail.com](mailto:goncalopinto9@gmail.com)
-- **🧑‍💼 LinkedIn**: [in/gonçalo-pinto99](www.linkedin.com/in/gonçalo-pinto99)
+- **🧑‍💼 LinkedIn**: [in/gonçalo-pinto99](https://www.linkedin.com/in/gonçalo-pinto99)
