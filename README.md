@@ -4,6 +4,8 @@ Hello world !!! 👋
 
 I’m Gonçalo, a software engineeer based in Braga, Portugal. I graduated from University of Minho and and now I am taking my master's. I am currently focused on expanding my knowledge with new technologies and languages.
 
+
+
 ## Technical Skills
 [<img align="left" alt="Haskell" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/haskell/haskell.png" />][haskell]
 [<img align="left" alt="C" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />][c]
@@ -22,7 +24,7 @@ I’m Gonçalo, a software engineeer based in Braga, Portugal. I graduated from 
 [<img align="left" alt="MySql" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][mysql]
 [<img align="left" alt="Neo4j" width="30px" src="https://raw.githubusercontent.com/github/explore/3eef11bc4653f26a145723abcdf7a97d831a394e/topics/neo4j/neo4j.png" />][neo4j]
 [<img align="left" alt="MongoDB" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][mongo]
-[<img align="left" alt="OracleSQL" width="30px" src="https://en.wikipedia.org/wiki/Oracle_SQL_Developer#/media/File:Oracle_SQL_Developer_logo.svg" />][oracle]
+[<img align="left" alt="OracleSQL" width="30px" src="https://upload.wikimedia.org/wikipedia/en/6/68/Oracle_SQL_Developer_logo.svg" />][oracle]
 <br />
 
 
@@ -32,10 +34,14 @@ I’m Gonçalo, a software engineeer based in Braga, Portugal. I graduated from 
 [<img align="left" alt="Uml" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/UML_logo.svg/220px-UML_logo.svg.png" />][uml]
 <br/>
 
+
 [<img align="left" alt="Antlr" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/antlr/antlr.png" />][antlr]
 [<img align="left" alt="Vue" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />][vue]
 [<img align="left" alt="NodeJS" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][nodejs]
 [<img align="left" alt="html" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
+<br/>
+
+
 
 ## Contacts
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
