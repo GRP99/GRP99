@@ -8,6 +8,9 @@ I’m Gonçalo, a software engineeer based in Braga, Portugal. I graduated from 
 [<img align="left" alt="Haskell" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/haskell/haskell.png" />][haskell]
 [<img align="left" alt="C" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />][c]
 [<img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"/>][java]
+<br />
+
+
 [<img align="left" alt="MySql" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][mysql]
 [<img align="left" alt="MySql" width="30px" src="https://raw.githubusercontent.com/github/explore/3eef11bc4653f26a145723abcdf7a97d831a394e/topics/neo4j/neo4j.png" />][neo4j]
 [<img align="left" alt="MongoDB" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][mongo]
