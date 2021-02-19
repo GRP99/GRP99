@@ -2,14 +2,14 @@
 
 Hello world !!! 👋 
 
-I’m Gonçalo, a software engineeer based in Braga, Portugal. I graduated from University of Minho and and now I am taking my master's. I love sports, traveling, gaming and I'm obsessed about everything tech-related. I am currently focused on expanding my knowledge with new technologies and languages.
+I’m Gonçalo, a software engineeer based in Braga, Portugal. I graduated from University of Minho and and now I am taking my master's. I am currently focused on expanding my knowledge with new technologies and languages.
 
 ## Technical Skills
-  - **Languages** : Haskell, C, Java, UML, MATLAB, C++, C#, PROLOG;
+  - **Languages** : Haskell, C, Java, UML, MATLAB, C++, C#, PROLOG, Python;
   - **Concepts** - MVC Architecture;
   - **Tools** - Git;
   - **Libraries** - Gloss, OpenGL, Xamarin;
-  - **Data** - SQL (MySQL), Neo4j, MongoDB;
+  - **Data** - SQL (MySQL), Neo4j, MongoDB, ElasticSearch, ArangoDB;
   
 ## Contacts
 - **🐙 GitHub**: [@GRP99](https://github.com/GRP99/)
