@@ -12,6 +12,9 @@ I’m Gonçalo, a software engineeer based in Braga, Portugal. I graduated from 
   - **Data** - SQL (MySQL), Neo4j, MongoDB, ElasticSearch, ArangoDB;
   
 ## Contacts
-- **🐙 GitHub**: [@GRP99](https://github.com/GRP99/)
-- **📧 Email**: [goncalopinto9@gmail.com](mailto:goncalopinto9@gmail.com)
-- **🧑‍💼 LinkedIn**: [in/gonçalo-pinto99](https://www.linkedin.com/in/gonçalo-pinto99)
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
+<img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /> (mailto:goncalopinto9@gmail.com)
+
+[linkedin]: https://www.linkedin.com/in/gonçalo-pinto99
+[github]: https://github.com/GRP99/
