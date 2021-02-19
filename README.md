@@ -12,6 +12,10 @@ I’m Gonçalo, a software engineeer based in Braga, Portugal. I graduated from 
 [<img align="left" alt="MySql" width="30px" src="https://raw.githubusercontent.com/github/explore/3eef11bc4653f26a145723abcdf7a97d831a394e/topics/neo4j/neo4j.png" />][neo4j]
 [<img align="left" alt="MongoDB" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][mongo]
 
+<br/>
+
+------
+
 ## Contacts
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
