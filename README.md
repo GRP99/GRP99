@@ -13,7 +13,7 @@ I’m Gonçalo, a software engineeer based in Braga, Portugal. I graduated from 
 
 [<img align="left" alt="Cpp" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"/>][cpp]
 [<img align="left" alt="Csharp" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"/>][csharp]
-[<img align="left" alt="Prolog" width="30px" src="https://iconscout.com/icon/prolog"/>][prolog]
+[<img align="left" alt="Prolog" width="30px" src="https://www.swi-prolog.org/icons/vector/swipl-logo.svg"/>][prolog]
 <br />
 
 
