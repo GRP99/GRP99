@@ -11,10 +11,22 @@ I’m Gonçalo, a software engineeer based in Braga, Portugal. I graduated from 
 <br />
 
 
-[<img align="left" alt="MySql" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][mysql]
-[<img align="left" alt="MySql" width="30px" src="https://raw.githubusercontent.com/github/explore/3eef11bc4653f26a145723abcdf7a97d831a394e/topics/neo4j/neo4j.png" />][neo4j]
-[<img align="left" alt="MongoDB" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][mongo]
+[<img align="left" alt="Cpp" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"/>][cpp]
+[<img align="left" alt="Csharp" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"/>][csharp]
+[<img align="left" alt="Prolog" width="30px" src="https://iconscout.com/icon/prolog"/>][prolog]
+<br />
 
+
+[<img align="left" alt="MySql" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][mysql]
+[<img align="left" alt="Neo4j" width="30px" src="https://raw.githubusercontent.com/github/explore/3eef11bc4653f26a145723abcdf7a97d831a394e/topics/neo4j/neo4j.png" />][neo4j]
+[<img align="left" alt="MongoDB" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][mongo]
+<br />
+
+
+[<img align="left" alt="Opengl" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opengl/opengl.png"/>][opengl]
+[<img align="left" alt="Xamarin" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/xamarin/xamarin.png"/>][xamarin]
+[<img align="left" alt="VisualParadigm" width="30px" src="https://forums.visual-paradigm.com/uploads/default/original/2X/6/6d10753eda994cb828d6d182304d2c9929ae85c1.png"/>][visualparadigm]
+[<img align="left" alt="Uml" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/UML_logo.svg/220px-UML_logo.svg.png" />][uml]
 <br/>
 
 ## Contacts
@@ -29,6 +41,13 @@ I’m Gonçalo, a software engineeer based in Braga, Portugal. I graduated from 
 [haskell]: https://www.haskell.org/ "Haskell"
 [c]:https://www.iso.org/standard/74528.html "C"
 [java]: https://java.com/en/ "Java"
+[cpp]: https://isocpp.org/ "Cpp"
+[csharp]: https://docs.microsoft.com/pt-pt/dotnet/csharp/ "Csharp"
+[prolog]: https://www.swi-prolog.org/ "Prolog"
 [mysql]: https://www.mysql.com/ "MySQL"
 [neo4j]: https://neo4j.com/ "Neo4j"
 [mongo]: https://www.mongodb.com/ "MongoDB"
+[opengl]: https://www.opengl.org/ "Opengl"
+[xamarin]:https://dotnet.microsoft.com/apps/xamarin
+[visualparadigm]: https://www.visual-paradigm.com/ "Visual Paradigm"
+[uml]: https://www.uml.org/ "UML"
