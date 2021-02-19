@@ -38,7 +38,7 @@ I’m Gonçalo, a software engineeer based in Braga, Portugal. I graduated from 
 [<img align="left" alt="Antlr" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/antlr/antlr.png" />][antlr]
 [<img align="left" alt="NodeJS" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][nodejs]
 [<img align="left" alt="html" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
-[<img align="left" alt="Tableay" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" />][tableau]
+[<img align="left" alt="Tableay" width="30px" src="https://www.pngjoy.com/fullpng/q2b8i6q4h8t3y6/" />][tableau]
 <br/>
 
 
