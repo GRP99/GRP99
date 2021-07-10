@@ -7,8 +7,8 @@ I’m Gonçalo, a software engineeer based in Braga, Portugal. I graduated from 
 
 
 ## Technical Skills
-[<img align="left" alt="Haskell" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/haskell/haskell.png" />][haskell]
 [<img align="left" alt="C" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />][c]
+[<img align="left" alt="Haskell" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/haskell/haskell.png" />][haskell]
 [<img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"/>][java]
 [<img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][python]
 <br />
@@ -16,8 +16,8 @@ I’m Gonçalo, a software engineeer based in Braga, Portugal. I graduated from 
 
 [<img align="left" alt="Cpp" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"/>][cpp]
 [<img align="left" alt="Csharp" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"/>][csharp]
-[<img align="left" alt="Prolog" width="30px" src="https://starbeamrainbowlabs.com/images/logos/swi-prolog.svg"/>][prolog]
 [<img align="left" alt="Javascript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
+[<img align="left" alt="UML" width="30px" src="https://marcobrambillapolimi.files.wordpress.com/2013/04/a49a9-ifml-logo.png" />][uml]
 <br />
 
 
@@ -28,51 +28,41 @@ I’m Gonçalo, a software engineeer based in Braga, Portugal. I graduated from 
 <br />
 
 
-[<img align="left" alt="Opengl" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opengl/opengl.png"/>][opengl]
-[<img align="left" alt="Xamarin" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/xamarin/xamarin.png"/>][xamarin]
-[<img align="left" alt="VisualParadigm" width="30px" src="https://forums.visual-paradigm.com/uploads/default/original/2X/6/6d10753eda994cb828d6d182304d2c9929ae85c1.png"/>][visualparadigm]
-[<img align="left" alt="Uml" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/UML_logo.svg/220px-UML_logo.svg.png" />][uml]
-<br/>
-
-
 [<img align="left" alt="Antlr" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/antlr/antlr.png" />][antlr]
 [<img align="left" alt="NodeJS" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][nodejs]
-[<img align="left" alt="html" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
-[<img align="left" alt="Tableay" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" />][tableau]
-<br/>
+[<img align="left" alt="DataMining" width="30px" src="https://media-exp3.licdn.com/dms/image/C4E0BAQFno6C2q4CkJw/company-logo_200_200/0/1576368017088?e=2159024400&v=beta&t=L5USjYR9veb0dPnlg6ijGUYqMepxISGsSu8dG8IQa90"/>][datamining]
+[<img align="left" alt="BusinessIntelligence" width="30px" src="https://powerbi.microsoft.com/pictures/application-logos/svg/powerbi.svg"/>][businessintelligence]
+<br />
 
 
 
 ## Contacts
-[<img align="left" alt="LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
-[<img align="left" alt="GitHub" width="26px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />][github]
-[<img align="left" alt="Gmail" width="22px" src="https://logosmarcas.net/wp-content/uploads/2020/11/Gmail-Logo.png" />][email] 
+[<img align="left" alt="LinkedIn" width="25px" src="https://image.flaticon.com/icons/png/512/174/174857.png"/>][linkedin]
+[<img align="left" alt="GitHub" width="25px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"/>][github]
+[<img align="left" alt="Gmail" width="25px" src="https://image.flaticon.com/icons/png/512/281/281769.png"/>][email] 
 
 [linkedin]: https://www.linkedin.com/in/gonçalo-pinto99
 [github]: https://github.com/GRP99/
 [email]: mailto:goncalopinto9@gmail.com
 
 [haskell]: https://www.haskell.org/ "Haskell"
-[c]:https://www.iso.org/standard/74528.html "C"
+[c]: https://www.iso.org/standard/74528.html "C"
 [java]: https://java.com/en/ "Java"
 [python]: https://www.python.org/ "Python"
 
 [cpp]: https://isocpp.org/ "Cpp"
 [csharp]: https://docs.microsoft.com/pt-pt/dotnet/csharp/ "Csharp"
-[prolog]: https://www.swi-prolog.org/ "Prolog"
 [javascript]: https://www.javascript.com/ "Javascript"
+[uml]: https://www.uml.org/ "UML"
 
 [mysql]: https://www.mysql.com/ "MySQL"
 [neo4j]: https://neo4j.com/ "Neo4j"
 [mongo]: https://www.mongodb.com/ "MongoDB"
 [oracle]: https://www.oracle.com/pt/database/technologies/appdev/sqldeveloper-landing.html "OracleSQL"
 
-[opengl]: https://www.opengl.org/ "Opengl"
-[xamarin]:https://dotnet.microsoft.com/apps/xamarin "Xamarin"
-[visualparadigm]: https://www.visual-paradigm.com/ "Visual Paradigm"
-[uml]: https://www.uml.org/ "UML"
-
 [antlr]: https://www.antlr.org/ "Antlr"
 [nodejs]: https://nodejs.org/en/ "NodeJS"
-[html]: https://html.spec.whatwg.org/ "HTML"
-[tableau]: https://www.tableau.com/ "Tableau"
+[datamining]: https://www.sas.com/pt_pt/insights/analytics/data-mining.html
+[businessintelligence]: https://www.tableau.com/learn/articles/business-intelligence
+
+
