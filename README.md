@@ -30,8 +30,8 @@ I’m Gonçalo, a software engineeer based in Braga, Portugal. I graduated from 
 
 [<img align="left" alt="Antlr" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/antlr/antlr.png" />][antlr]
 [<img align="left" alt="NodeJS" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][nodejs]
-[<img align="left" alt="DataMining" width="30px" src="https://media-exp3.licdn.com/dms/image/C4E0BAQFno6C2q4CkJw/company-logo_200_200/0/1576368017088?e=2159024400&v=beta&t=L5USjYR9veb0dPnlg6ijGUYqMepxISGsSu8dG8IQa90"/>][datamining]
-[<img align="left" alt="BusinessIntelligence" width="30px" src="https://powerbi.microsoft.com/pictures/application-logos/svg/powerbi.svg"/>][businessintelligence]
+[<img align="left" alt="DataMining" width="30px" src="https://media-exp3.licdn.com/dms/image/C4E0BAQFno6C2q4CkJw/company-logo_200_200/0/1576368017088?e=2159024400&v=beta&t=L5USjYR9veb0dPnlg6ijGUYqMepxISGsSu8dG8IQa90" />][datamining]
+[<img align="left" alt="BusinessIntelligence" width="30px" src="https://powerbi.microsoft.com/pictures/application-logos/svg/powerbi.svg" />][businessintelligence]
 <br />
 
 
