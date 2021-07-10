@@ -16,8 +16,8 @@ I’m Gonçalo, a software engineeer based in Braga, Portugal. I graduated from 
 
 [<img align="left" alt="Cpp" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"/>][cpp]
 [<img align="left" alt="Csharp" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"/>][csharp]
-[<img align="left" alt="Javascript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
 [<img align="left" alt="UML" width="30px" src="https://marcobrambillapolimi.files.wordpress.com/2013/04/a49a9-ifml-logo.png" />][uml]
+[<img align="left" alt="Javascript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
 <br />
 
 
@@ -29,7 +29,7 @@ I’m Gonçalo, a software engineeer based in Braga, Portugal. I graduated from 
 
 
 [<img align="left" alt="Antlr" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/antlr/antlr.png" />][antlr]
-[<img align="left" alt="NodeJS" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][nodejs]
+[<img align="left" alt="SemanticWeb" width="30px" src="https://www.w3.org/Icons/SW/sw-cube-v.svg" />][semanticweb]
 [<img align="left" alt="DataMining" width="30px" src="https://media-exp3.licdn.com/dms/image/C4E0BAQFno6C2q4CkJw/company-logo_200_200/0/1576368017088?e=2159024400&v=beta&t=L5USjYR9veb0dPnlg6ijGUYqMepxISGsSu8dG8IQa90" />][datamining]
 [<img align="left" alt="BusinessIntelligence" width="30px" src="https://powerbi.microsoft.com/pictures/application-logos/svg/powerbi.svg" />][businessintelligence]
 <br />
@@ -61,8 +61,8 @@ I’m Gonçalo, a software engineeer based in Braga, Portugal. I graduated from 
 [oracle]: https://www.oracle.com/pt/database/technologies/appdev/sqldeveloper-landing.html "OracleSQL"
 
 [antlr]: https://www.antlr.org/ "Antlr"
-[nodejs]: https://nodejs.org/en/ "NodeJS"
-[datamining]: https://www.sas.com/pt_pt/insights/analytics/data-mining.html
-[businessintelligence]: https://www.tableau.com/learn/articles/business-intelligence
+[semanticweb]: https://www.w3.org/standards/semanticweb/ "SemanticWeb"
+[datamining]: https://www.sas.com/pt_pt/insights/analytics/data-mining.html "DataMining"
+[businessintelligence]: https://www.tableau.com/learn/articles/business-intelligence "BusinessIntelligence"
 
 
