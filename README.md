@@ -34,7 +34,12 @@ I’m Gonçalo, a software engineeer based in Braga, Portugal. I graduated from 
 [<img align="left" alt="BusinessIntelligence" width="30px" src="https://powerbi.microsoft.com/pictures/application-logos/svg/powerbi.svg" />][businessintelligence]
 <br />
 
+### Top Languages Used
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GRP99&layout=compact&theme=radical&langs_count=8)](https://github.com/GRP99/)
+----------------------------------------
 
+### My Github Stats
+[![Demorales's GitHub stats](https://github-readme-stats.vercel.app/api?username=GRP99&show_icons=true&theme=radical)](https://github.com/GRP99/)
 
 ## Contacts
 [<img align="left" alt="LinkedIn" width="25px" src="https://image.flaticon.com/icons/png/512/174/174857.png"/>][linkedin]
