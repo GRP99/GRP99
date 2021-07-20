@@ -36,8 +36,6 @@ I’m Gonçalo, a software engineeer based in Braga, Portugal. I graduated from 
 
 ### Top Languages Used
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GRP99&layout=compact&theme=radical&langs_count=8)](https://github.com/GRP99/)
-----------------------------------------
-
 ### My Github Stats
 [![Demorales's GitHub stats](https://github-readme-stats.vercel.app/api?username=GRP99&show_icons=true&theme=radical)](https://github.com/GRP99/)
 
