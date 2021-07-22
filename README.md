@@ -41,11 +41,9 @@ I’m Gonçalo, a software engineeer based in Braga, Portugal. I graduated from 
 
 ## Contacts
 [<img align="left" alt="LinkedIn" width="25px" src="https://image.flaticon.com/icons/png/512/174/174857.png"/>][linkedin]
-[<img align="left" alt="GitHub" width="25px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"/>][github]
 [<img align="left" alt="Gmail" width="25px" src="https://image.flaticon.com/icons/png/512/281/281769.png"/>][email] 
 
 [linkedin]: https://www.linkedin.com/in/gonçalo-pinto99
-[github]: https://github.com/GRP99/
 [email]: mailto:goncalopinto9@gmail.com
 
 [haskell]: https://www.haskell.org/ "Haskell"
