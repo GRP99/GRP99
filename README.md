@@ -1,69 +1,58 @@
-# Gonçalo Pinto 
+# Hello, I'm Gonçalo Pinto 👋 🇵🇹 🇬🇧
 
-Hello world !!! 👋 
+**Welcome to my GitHub profile!**
 
-I’m Gonçalo, a software engineeer based in Braga, Portugal. I graduated from University of Minho and and now I am taking my master's. I am currently focused on expanding my knowledge with new technologies and languages.
+## 👨‍💻 About Me
 
-
-
-## Technical Skills
-[<img align="left" alt="C" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />][c]
-[<img align="left" alt="Haskell" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/haskell/haskell.png" />][haskell]
-[<img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"/>][java]
-[<img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][python]
-<br />
+I am a Java backend developer based in Portugal, with a master degree in Informatics Engineering from the [University of Minho](https://www.uminho.pt/EN). Currently, I work at [AlticeLabs, S.A.](https://github.com/AlticeLabsProjects), contributing to improving projects to make them more functional and optimized. With hands-on experience in various backend projects, I focus on delivering reliable and efficient applications. I am passionate about problem-solving and enjoy collaborating with teams to create impactful software solutions. Outside of work, I love sports, travelling , and gaming, and I have an obsession with everything tech-related.
 
 
-[<img align="left" alt="Cpp" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"/>][cpp]
-[<img align="left" alt="Csharp" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"/>][csharp]
-[<img align="left" alt="UML" width="30px" src="https://marcobrambillapolimi.files.wordpress.com/2013/04/a49a9-ifml-logo.png" />][uml]
-[<img align="left" alt="Javascript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
-<br />
+## 🚀 Future Goals
 
+I am dedicated to continuously enhancing my backend development skills, with a focus on performance and scalability. I am also committed to exploring new versions of Java to stay updated with the latest features and improvements. My passion for learning drives me to explore new technologies and adopt best practices in software development.
 
-[<img align="left" alt="MySql" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][mysql]
-[<img align="left" alt="Neo4j" width="30px" src="https://raw.githubusercontent.com/github/explore/3eef11bc4653f26a145723abcdf7a97d831a394e/topics/neo4j/neo4j.png" />][neo4j]
-[<img align="left" alt="MongoDB" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][mongo]
-[<img align="left" alt="OracleSQL" width="30px" src="https://upload.wikimedia.org/wikipedia/en/6/68/Oracle_SQL_Developer_logo.svg" />][oracle]
-<br />
+## 🛠 Technologies & Tools
 
+Here's a list of technologies and tools I work with regularly:
 
-[<img align="left" alt="Antlr" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/antlr/antlr.png" />][antlr]
-[<img align="left" alt="SemanticWeb" width="30px" src="https://www.w3.org/Icons/SW/sw-cube-v.svg" />][semanticweb]
-[<img align="left" alt="DataMining" width="30px" src="https://media-exp3.licdn.com/dms/image/C4E0BAQFno6C2q4CkJw/company-logo_200_200/0/1576368017088?e=2159024400&v=beta&t=L5USjYR9veb0dPnlg6ijGUYqMepxISGsSu8dG8IQa90" />][datamining]
-[<img align="left" alt="BusinessIntelligence" width="30px" src="https://powerbi.microsoft.com/pictures/application-logos/svg/powerbi.svg" />][businessintelligence]
-<br />
+<div style="display: inline_block"><br>
+  <img align="center" alt="GRP99-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="GRP99-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="GRP99-javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="GRP99-mongodb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+  <img align="center" alt="GRP99-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="GRP99-neo4j" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neo4j/neo4j-original.svg">
+  <img align="center" alt="GRP99-json" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/json/json-original.svg">
+  <img align="center" alt="GRP99-maven" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg">
+  <img align="center" alt="GRP99-quarkus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/quarkus/quarkus-original.svg">
+  <img align="center" alt="GRP99-intellij" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg">  
+  <img align="center" alt="GRP99-jenkins" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg">
+  <img align="center" alt="GRP99-docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" alt="GRP99-jira" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg">
+  <img align="center" alt="GRP99-linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+</div>
 
-### Top Languages Used
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GRP99&layout=compact&theme=radical&langs_count=8)](https://github.com/GRP99/)
-### My Github Stats
-[![Demorales's GitHub stats](https://github-readme-stats.vercel.app/api?username=GRP99&show_icons=true&theme=radical)](https://github.com/GRP99/)
+## 📊 GitHub Stats
 
-## Contacts
-[<img align="left" alt="LinkedIn" width="25px" src="https://image.flaticon.com/icons/png/512/174/174857.png"/>][linkedin]
-[<img align="left" alt="Gmail" width="25px" src="https://image.flaticon.com/icons/png/512/281/281769.png"/>][email] 
+Here are some stats about my GitHub contributions:
 
-[linkedin]: https://www.linkedin.com/in/gonçalo-pinto99
-[email]: mailto:goncalopinto9@gmail.com
+<div>
+  <a href="https://github.com/GRP99">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GRP99&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GRP99&layout=compact&langs_count=6&theme=dark"/>
+</div>
 
-[haskell]: https://www.haskell.org/ "Haskell"
-[c]: https://www.iso.org/standard/74528.html "C"
-[java]: https://java.com/en/ "Java"
-[python]: https://www.python.org/ "Python"
+<img src="https://komarev.com/ghpvc/?username=GRP99&color=green" alt="GRP99"/>
 
-[cpp]: https://isocpp.org/ "Cpp"
-[csharp]: https://docs.microsoft.com/pt-pt/dotnet/csharp/ "Csharp"
-[javascript]: https://www.javascript.com/ "Javascript"
-[uml]: https://www.uml.org/ "UML"
+## 🌐 Connect with me
 
-[mysql]: https://www.mysql.com/ "MySQL"
-[neo4j]: https://neo4j.com/ "Neo4j"
-[mongo]: https://www.mongodb.com/ "MongoDB"
-[oracle]: https://www.oracle.com/pt/database/technologies/appdev/sqldeveloper-landing.html "OracleSQL"
+Feel free to reach me on social platforms:
 
-[antlr]: https://www.antlr.org/ "Antlr"
-[semanticweb]: https://www.w3.org/standards/semanticweb/ "SemanticWeb"
-[datamining]: https://www.sas.com/pt_pt/insights/analytics/data-mining.html "DataMining"
-[businessintelligence]: https://www.tableau.com/learn/articles/business-intelligence "BusinessIntelligence"
+<div style="display: inline_block">
+  <a href="https://www.linkedin.com/in/gonçalo-pinto99"><img align="center" alt="GRP99-gmail" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"></a>
+  <a href="mailto:goncalopinto9@gmail.com"><img align="center" alt="GRP99-gmail" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg"></a>
+</div>
 
+---
 
+**Thanks for visiting my profile!** 😄
