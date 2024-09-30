@@ -2,14 +2,13 @@
 
 **Welcome to my GitHub profile!**
 
-## 👨‍💻 About Me
+## 👨‍💻 About
 
-I am a Java backend developer based in Portugal, with a master degree in Informatics Engineering from the [University of Minho](https://www.uminho.pt/EN). Currently, I work at [AlticeLabs, S.A.](https://github.com/AlticeLabsProjects), contributing to improving projects to make them more functional and optimized. With hands-on experience in various backend projects, I focus on delivering reliable and efficient applications. I am passionate about problem-solving and enjoy collaborating with teams to create impactful software solutions. Outside of work, I love sports, travelling , and gaming, and I have an obsession with everything tech-related.
-
+I am a Java backend developer based in Portugal, with a master degree in Informatics Engineering from the [University of Minho](https://www.uminho.pt/EN). Currently working at [AlticeLabs, S.A.](https://github.com/AlticeLabsProjects), contributing to enhanced projects for improved functionality and optimization. With hands-on experience in various backend projects, my daily focus lies on delivering reliable and efficient applications.
 
 ## 🚀 Future Goals
 
-I am dedicated to continuously enhancing my backend development skills, with a focus on performance and scalability. I am also committed to exploring new versions of Java to stay updated with the latest features and improvements. My passion for learning drives me to explore new technologies and adopt best practices in software development.
+I am dedicated to continuously enhancing my backend development skills, particularly in terms of performance and scalability. I am also committed to exploring new versions of Java to stay updated with the latest features and improvements.
 
 ## 🛠 Technologies & Tools
 
